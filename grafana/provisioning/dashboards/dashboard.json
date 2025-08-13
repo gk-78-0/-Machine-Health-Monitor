@@ -1,0 +1,23 @@
+{
+  "dashboard": {
+    "id": null,
+    "uid": "medical-equipment-monitor",
+    "title": "Medical Equipment Health Monitoring",
+    "panels": [
+      {
+        "type": "graph",
+        "title": "Temperature",
+        "targets": [
+          { "expr": "machine_temperature", "legendFormat": "{{machine_id}} ({{hospital}})" }
+        ]
+      },
+      {
+        "type": "graph",
+        "title": "Runtime Hours",
+        "targets": [
+          { "expr": "machine_runtime_hours", "legendFormat": "{{machine_id}} ({{hospital}})" }
+        ]
+      }
+    ]
+  }
+}

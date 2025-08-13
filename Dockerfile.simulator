@@ -1,0 +1,6 @@
+FROM alpine:latest
+RUN apk --no-cache add bash curl
+WORKDIR /simulator
+COPY simulator/simulate.sh .
+RUN chmod +x simulate.sh
+CMD ["./simulate.sh"]
