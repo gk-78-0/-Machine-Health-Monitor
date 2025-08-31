@@ -1,5 +1,3 @@
-<img width="818" height="490" alt="docker compose " src="https://github.com/user-attachments/assets/099806a1-8a62-48c4-8ff7-490c2a9ef521" />
-<img width="1038" height="575" alt="image" src="https://github.com/user-attachments/assets/3a1f74e9-e1d6-4a34-9460-2d181ca86921" />
 Machine Health Monitor
 📌 Overview
 
@@ -49,7 +47,7 @@ cd Machine-Health-Monitor
 
 2. Run with Docker Compose
 docker-compose up --build
-
+<img width="818" height="490" alt="docker compose " src="https://github.com/user-attachments/assets/099806a1-8a62-48c4-8ff7-490c2a9ef521" />
 3. Access the services
 
 Backend API → http://localhost:5000
@@ -67,6 +65,7 @@ Password: admin
 📊 Dashboard
 
 Grafana provides a real-time machine health dashboard with metrics from Prometheus.
+<img width="1038" height="575" alt="image" src="https://github.com/user-attachments/assets/3a1f74e9-e1d6-4a34-9460-2d181ca86921" />
 
 🔮 Future Enhancements
 
