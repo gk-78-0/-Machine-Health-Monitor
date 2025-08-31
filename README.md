@@ -1,3 +1,5 @@
+<img width="818" height="490" alt="docker compose " src="https://github.com/user-attachments/assets/099806a1-8a62-48c4-8ff7-490c2a9ef521" />
+<img width="1038" height="575" alt="image" src="https://github.com/user-attachments/assets/3a1f74e9-e1d6-4a34-9460-2d181ca86921" />
 Machine Health Monitor
 📌 Overview
 
